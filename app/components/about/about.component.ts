@@ -5,4 +5,6 @@ import { Component } from '@angular/core';
   selector: 'about',
   templateUrl: 'about.component.html'
 })
-export class AboutComponent { }
+export class AboutComponent {
+
+}
